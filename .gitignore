@@ -1,0 +1,12 @@
+# Ignore everything...
+*
+!*/
+
+# But these files.
+!.gitignore
+!BSM.hpprgm
+!BSM_UNIT_TEST.hpprgm
+!.vscode/settings.json
+!LICENSE
+!README.md
+!docs/*
